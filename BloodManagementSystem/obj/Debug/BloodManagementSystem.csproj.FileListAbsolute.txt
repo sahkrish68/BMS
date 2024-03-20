@@ -1,0 +1,13 @@
+C:\Users\krish.sah\source\repos\BloodManagementSystem\bin\Debug\BloodManagementSystem.exe.config
+C:\Users\krish.sah\source\repos\BloodManagementSystem\bin\Debug\BloodManagementSystem.exe
+C:\Users\krish.sah\source\repos\BloodManagementSystem\bin\Debug\BloodManagementSystem.pdb
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.csproj.AssemblyReference.cache
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.Properties.Resources.resources
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.csproj.GenerateResource.cache
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.exe
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.pdb
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.frmHome.resources
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodBankManagementSystem.UI.frmUsers.resources
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.UI.frmDoner1.resources
+C:\Users\krish.sah\source\repos\BloodManagementSystem\obj\Debug\BloodManagementSystem.UI.frmLogin.resources
